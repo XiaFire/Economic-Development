@@ -17,8 +17,7 @@ This repository contains the code for paper *Weakly Supervised Deep Learning for
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/998822/Economic-Development
-.git
+git clone https://github.com/998822/Economic-Development.git
 cd Economic-Development
 ```
 
